@@ -48,4 +48,10 @@ return require('packer').startup(function(use)
   use 'mattkubej/jest.nvim'
 
   use { "ellisonleao/gruvbox.nvim" }
+
+  use 'prichrd/netrw.nvim'
+
+  use 'nvim-tree/nvim-web-devicons'
+
+  use 'JafarDakhan/vim-gml'
 end)

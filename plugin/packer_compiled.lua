@@ -139,6 +139,11 @@ _G.packer_plugins = {
     path = "/Users/raphaelamadeu/.local/share/nvim/site/pack/packer/start/mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
   },
+  ["netrw.nvim"] = {
+    loaded = true,
+    path = "/Users/raphaelamadeu/.local/share/nvim/site/pack/packer/start/netrw.nvim",
+    url = "https://github.com/prichrd/netrw.nvim"
+  },
   ["nvim-cmp"] = {
     loaded = true,
     path = "/Users/raphaelamadeu/.local/share/nvim/site/pack/packer/start/nvim-cmp",
@@ -153,6 +158,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/raphaelamadeu/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
     url = "https://github.com/nvim-treesitter/nvim-treesitter"
+  },
+  ["nvim-web-devicons"] = {
+    loaded = true,
+    path = "/Users/raphaelamadeu/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+    url = "https://github.com/nvim-tree/nvim-web-devicons"
   },
   ["packer.nvim"] = {
     loaded = true,
@@ -173,6 +183,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/raphaelamadeu/.local/share/nvim/site/pack/packer/start/undotree",
     url = "https://github.com/mbbill/undotree"
+  },
+  ["vim-gml"] = {
+    loaded = true,
+    path = "/Users/raphaelamadeu/.local/share/nvim/site/pack/packer/start/vim-gml",
+    url = "https://github.com/JafarDakhan/vim-gml"
   }
 }
 
