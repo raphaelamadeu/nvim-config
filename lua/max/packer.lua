@@ -19,4 +19,6 @@ return require('packer').startup(function(use)
   }
 
   use 'mbbill/undotree'
+
+  use 'kdheepak/lazygit.nvim'
 end)
