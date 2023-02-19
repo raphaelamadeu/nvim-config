@@ -109,6 +109,11 @@ _G.packer_plugins = {
     path = "/Users/raphaelamadeu/.local/share/nvim/site/pack/packer/start/friendly-snippets",
     url = "https://github.com/rafamadriz/friendly-snippets"
   },
+  ["gruvbox.nvim"] = {
+    loaded = true,
+    path = "/Users/raphaelamadeu/.local/share/nvim/site/pack/packer/start/gruvbox.nvim",
+    url = "https://github.com/ellisonleao/gruvbox.nvim"
+  },
   ["jest.nvim"] = {
     loaded = true,
     path = "/Users/raphaelamadeu/.local/share/nvim/site/pack/packer/start/jest.nvim",

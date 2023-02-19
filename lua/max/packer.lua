@@ -46,4 +46,6 @@ return require('packer').startup(function(use)
   }
 
   use 'mattkubej/jest.nvim'
+
+  use { "ellisonleao/gruvbox.nvim" }
 end)
