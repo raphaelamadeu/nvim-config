@@ -1,19 +1,19 @@
 # nvim-config
 my current Nvim configuration
 
-##Requisites:
-###Packer
+## Requisites:
+### Packer
 ```
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\
  ~/.local/share/nvim/site/pack/packer/start/packer.nvim
  ```
  
- ###LazyGit
+ ### LazyGit
  ```
  brew install lazygit
  ```
  
- ###RipGrep
+ ### RipGrep
  ```
  brew install ripgrep
  ```
