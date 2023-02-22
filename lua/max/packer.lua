@@ -47,8 +47,6 @@ return require('packer').startup(function(use)
 
   use 'mattkubej/jest.nvim'
 
-  use { "ellisonleao/gruvbox.nvim" }
-
   use 'prichrd/netrw.nvim'
 
   use 'nvim-tree/nvim-web-devicons'
@@ -59,4 +57,6 @@ return require('packer').startup(function(use)
 	  'nvim-lualine/lualine.nvim',
 	  requires = { 'kyazdani42/nvim-web-devicons', opt = true }
   }
+
+  use { "catppuccin/nvim", as = "catppuccin" }
 end)
